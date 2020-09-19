@@ -1,1 +1,2 @@
 4. Crear un fitxer de text (.txt) en aquesta carpeta.
+5. Fes un altre canvi al document i fer commit i push.
