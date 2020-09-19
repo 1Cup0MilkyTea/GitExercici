@@ -1,0 +1,1 @@
+4. Crear un fitxer de text (.txt) en aquesta carpeta.
